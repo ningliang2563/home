@@ -45,7 +45,7 @@ import { Pagination, Mousewheel } from "swiper";
 const projectData = [
   {
     name: "home",
-    author: "imsyy",
+    author: "ningliang",
     desc: "个人主页，我的个人主页，个人主页源码，主页模板，homepage",
   },
   {
@@ -62,11 +62,6 @@ const projectData = [
     name: "DailyHotApi",
     author: "imsyy",
     desc: "今日热榜 API，一个聚合热门数据的 API 接口，支持 Vercel 部署 | 前端页面：https://github.com/imsyy/DailyHot",
-  },
-  {
-    name: "site-status",
-    author: "imsyy",
-    desc: "📺 一个基于 UptimeRobot API 的在线状态面板 | 站点监测 | 状态检测 | An online status panel based on the UptimeRobot API | UptimeRobot, status, site",
   },
 ];
 
